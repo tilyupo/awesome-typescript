@@ -177,6 +177,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [pompelmi](https://github.com/pompelmi/pompelmi) - File-upload malware scanning for Node.js to help prevent Remote File Inclusion (RFI), with adapters for Express, Koa, and Next.js
 * [codables](https://codableslib.com/) - Decorators based, declarative, type-rich JSON (de)serializer able to handle almost any data type
 * [Rev-dep](https://github.com/jayu/rev-dep) - Trace imports, identify circular dependencies, find unused code, clean node modules — all from a blazing-fast CLI.
+* [Replane](https://github.com/replane-dev/replane) - Dynamic configuration manager for feature flags, app settings, and operational config with version history, approvals, and realtime sync.
 
 ## Types
 * [jsonup](https://github.com/tani/jsonup) - Compile-time JSON parser
